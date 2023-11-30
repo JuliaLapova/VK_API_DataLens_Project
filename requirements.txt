@@ -1,0 +1,7 @@
+pytest
+testit-adapter-pytest
+testit-api-client
+fastapi
+httpx
+typing
+pydantic
