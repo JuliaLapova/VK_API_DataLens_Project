@@ -34,7 +34,7 @@
 
 ### Примеры визуализации данных:
 
-![Имя скриншота](https://drive.google.com/file/d/1ujPKASYmI_8FMUQGouB3mNFg-EzYG_8n/view?usp=drive_link)
+![Datalens](Datalens.png)
 _Популярные имена и половозрастная структура в городе Саратов_
 
 ### Ссылка на DataLens дашборд
