@@ -6,7 +6,7 @@
 
 ### Москва, 2023
 
-![presentation](Presentation.png)
+![presentation](Presentation1.png)
 
 
 ## Описание проекта
